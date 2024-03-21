@@ -7,3 +7,6 @@ write.table(JC69, file="jc69.csv", sep=",")
 
 K80 = dist.dna(fb2, model="K80", as.matrix=T)
 write.table(K80, file="k80.csv", sep=",")
+
+RAW = dist.dna(fb2, model="raw", as.matrix=T)
+write.table(RAW, file="raw.csv", sep=",")
