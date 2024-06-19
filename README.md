@@ -1,6 +1,7 @@
 # dnaimg
 
-This is the repository for the paper
+This is the repository for the paper "_Improving Taxonomic Image-based
+Out-of-distribution Detection With DNA Barcodes_"
 
 # Dataset
 
