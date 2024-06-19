@@ -10,4 +10,4 @@ The accompanying DNA data can be found from the `notebooks` folder.
 
 # Reproducing the experiments
 
-Follow the `notebooks/analysis.ipynb` notebook to reproduce the results.
+Follow the `notebooks/loo_fb2_process_all.ipynb` notebook to reproduce the results.
